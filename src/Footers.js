@@ -2,7 +2,6 @@
 export default function Footers(){
 
     return(
-  
       <>
   
       <div className='footer1'>
@@ -13,10 +12,6 @@ export default function Footers(){
         </div>
 
         </>
-        
-  
-  
-  
   
     )
   }
