@@ -1,13 +1,14 @@
 
 import './App.css';
+import './header.css'
+import Header from './Header';
 
 function App() {
   return (
     
  <div className='container-L'>
-  <div className='header'>
-    <p>Header</p>
-  </div>
+ 
+ <Header/>
 
     <div className='one'>
       <p>1</p>
@@ -29,15 +30,12 @@ function App() {
     <p>Footer2</p>
       </div>
  
-
-
-
-
-
  </div> 
  
   )
 }
+
+
 
 
 
