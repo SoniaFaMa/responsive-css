@@ -2,8 +2,10 @@
 import './App.css';
 import './header.css'
 import './numbers.css'
+import './footers.css'
 import Header from './Header';
 import Numbers from './Numbers'
+import Footers from './Footers';
 
 function App() {
   return (
@@ -12,19 +14,18 @@ function App() {
  
  <Header/>
  <Numbers/>
+ <Footers/>
+ 
    
 
-    <div className='footer1'>
-      <p>Footer1</p>
-      </div>
-    <div className='footer2'>
-    <p>Footer2</p>
-      </div>
+   
  
  </div> 
  
   )
 }
+
+
 
 
 
