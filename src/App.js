@@ -11,7 +11,7 @@ import Footers from './Footers';
 function App() {
   return (
     
- <div className='container-L'>
+ <div className='container'>
  
  <Header/>
  <Numbers/>
