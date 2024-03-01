@@ -22,3 +22,14 @@
       }
 
 }
+@media (min-width:30px) and (max-width:768px){
+    .footer1,.footer2{
+        background-color: yellow;
+        width: 700vh;
+        height: 40px;
+        margin: 5px;
+        border: 4px solid #000;
+        
+      }
+
+}
