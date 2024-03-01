@@ -3,6 +3,7 @@ import './App.css';
 import './header.css'
 import './numbers.css'
 import './footers.css'
+
 import Header from './Header';
 import Numbers from './Numbers'
 import Footers from './Footers';
@@ -15,10 +16,6 @@ function App() {
  <Header/>
  <Numbers/>
  <Footers/>
- 
-   
-
-   
  
  </div> 
  
