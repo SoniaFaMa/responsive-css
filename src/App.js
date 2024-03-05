@@ -1,12 +1,12 @@
 
 import './App.css';
-import './header.css'
-import './numbers.css'
-import './footers.css'
+import './Components/Header/header.css'
+import './Components/Numbers/numbers.css'
+import './Components/Footer/footer.css'
 
-import Header from './Header';
-import Numbers from './Numbers'
-import Footers from './Footers';
+import Header from './Components/Header/Header';
+import Numbers from './Components/Numbers/Numbers'
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
  
  <Header/>
  <Numbers/>
- <Footers/>
+ <Footer/>
  
  </div> 
  
